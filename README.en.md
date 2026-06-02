@@ -1,36 +1,42 @@
 # Shift-Management-System-LowCode
 
-#### Description
-Low-code shift management system for catering enterprises
+## Overview
 
-#### Software Architecture
-Software architecture description
+This project develops a low-code shift management system for catering SMEs.
 
-#### Installation
+The system integrates:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- AppSheet
+- Google Sheets
+- Python Random Forest Forecasting
 
-#### Instructions
+## Features
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Shift Assignment
+- Leave Requests
+- Shift Swaps
+- Approval Workflow
+- Role-Based Access Control
+- Demand Forecasting
+- Dashboard Visualization
 
-#### Contribution
+## Technologies
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+- AppSheet
+- Google Sheets
+- Python
+- Scikit-Learn
+- Random Forest
 
+## Repository Structure
 
-#### Gitee Feature
+forecasting/
+database/
+screenshots/
+docs/
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Note
+
+The AppSheet application is hosted in the developer's Google Workspace environment.
+
+Most application logic is implemented through low-code platform configuration rather than traditional source code.
