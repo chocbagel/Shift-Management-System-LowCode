@@ -1,18 +1,14 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Python
+__pycache__/
+*.pyc
 
-# Other files and folders
-.settings/
+# Google credentials
+*.json
+shift-management-credentials.json
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Colab
+.ipynb_checkpoints/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# OS files
+.DS_Store
+Thumbs.db
